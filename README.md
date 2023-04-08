@@ -1,22 +1,10 @@
-### Hi there 👋
+## Hi, 我是THYLOVEZJ 😋
 
-<!--
-**THYLOVEZJ/THYLOVEZJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 XD_STU
+- 🚀 kotlin | Java | JS 
+- 👾 地球生物、CV爱好者、推理爱好者 
+- 💬 微信：a13186008666
 
-Here are some ideas to get you started:
+## 今年汇总 ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-### 你好，世界 👋
-- :orange_book: Focusing on Android & Java 
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=THYLOVEZJ&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THYLOVEZJ&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
