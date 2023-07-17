@@ -1,4 +1,4 @@
-## Hi, 我是THYLOVEZJ 😋
+## Hi, 我是THYLOVEZQ 😋
 
 - 🧑‍💻 XD_STU
 - 🚀 kotlin | Java | JS 
